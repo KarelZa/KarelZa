@@ -1,6 +1,6 @@
-- Hi, My name is Karel Zamazal.
-- I’m interested in Web Development.
-- Besides coding, I like to hike & travel, watch new Netflix shows or twitch, play ARPG/RPG games. 
+- Hi, my name is Karel Zamazal.
+- Web Developer from Ostrava
+- Besides coding, I like to hike & travel, binge-watch Netflix shows or check on my favourite streamers on twitch,I also enjoy playing ARPG/RPG games. 
 - Fan of sci-fi genre, Asian cuisine and smart technologies.
 
 <!---
